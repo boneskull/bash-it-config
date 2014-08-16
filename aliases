@@ -1,0 +1,9 @@
+bundler.aliases.bash
+general.aliases.bash
+git.aliases.bash
+heroku.aliases.bash
+hg.aliases.bash
+homebrew.aliases.bash
+osx.aliases.bash
+vagrant.aliases.bash
+vim.aliases.bash
